@@ -18,6 +18,10 @@ Function included in this package:
   \item \code{\link{unsupSaturation}}
 }
 }
+\references{
+This program was written at Remote Sensing Solutions RSS GmbH,
+            Dingolfinger Str. 9, 81673 Munich, Germany \url{https://rssgmbh.de/}.
+}
 \author{
 Marius Philipp \email{marius.philipp@stud-mail.uni-wuerzburg.de}
 }

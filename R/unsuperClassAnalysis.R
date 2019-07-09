@@ -15,5 +15,8 @@
 #'
 #' @author Marius Philipp \email{marius.philipp@stud-mail.uni-wuerzburg.de}
 #'
+#' @references This program was written at Remote Sensing Solutions RSS GmbH,
+#'             Dingolfinger Str. 9, 81673 Munich, Germany \url{https://rssgmbh.de/}.
+#'
 #' @name unsuperClassAnalysis
 NULL

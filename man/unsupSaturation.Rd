@@ -112,3 +112,7 @@ RStoolbox::ggR(x1, geom_raster = T)+
  ylab("")
 
 }
+\references{
+This program was written at Remote Sensing Solutions RSS GmbH,
+            Dingolfinger Str. 9, 81673 Munich, Germany \url{https://rssgmbh.de/}.
+}
