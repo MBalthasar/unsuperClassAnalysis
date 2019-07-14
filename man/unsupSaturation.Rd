@@ -18,7 +18,8 @@ unsupSaturation(raster, nSamples, nClasses, nStarts, valData, responseCol,
 
 \item{valData}{SpatialPolygonsDataFrame or SpatialPointsDataFrame with validation data.}
 
-\item{responseCol}{Character. Column containing the validation data in attribute table of valData.}
+\item{responseCol}{Character. Column containing the validation data in attribute table of valData.
+Presence data has to be labeled 1 and absence data has to be labeled 0.}
 
 \item{valSamples}{Integer. Number of pixels to sample for validation (only applies to polygons).}
 }

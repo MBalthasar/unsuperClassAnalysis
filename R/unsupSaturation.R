@@ -15,6 +15,7 @@
 #' @param valData SpatialPolygonsDataFrame or SpatialPointsDataFrame with validation data.
 #'
 #' @param responseCol Character. Column containing the validation data in attribute table of valData.
+#'                    Presence data has to be labeled 1 and absence data has to be labeled 0.
 #'
 #' @param valSamples Integer. Number of pixels to sample for validation (only applies to polygons).
 #'
